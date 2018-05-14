@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/ScaleFT/chainjwt.svg?branch=master)](https://travis-ci.org/ScaleFT/chainjwt)
 
 
-`chainjwt` is a Go librarty for validating a JWT based on a trust assertion from another JWT.
+`chainjwt` is a Go library for validating a JWT based on a trust assertion from another JWT.
 
 This structure allows for:
 
